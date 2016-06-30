@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lugares a visitar</string>
+    <string name="tituloTeotihuacan">Teotihuacan</string>
+    <string name="tituloLatinoamericana">Torre latinoAmericana</string>
+    <string name="tituloCastillo">Castillo de Chapultepec</string>
+    <string name="tituloRevolucion">Revolucion</string>
+    <string name="configuracion">Configuración</string>
+    <string name="IrTeotihuacan">Ir a Tehotihuacan</string>
+    <string name="IrTorreLatino">Ir a Torre LatinoAmericano</string>
+    <string name="IrMonumentoRev">Ir a Monumento a la Revolución mexicana</string>
+    <string name="IrCastillo">Ir a al Castillo de Chapultepec</string>
+    <string name="title_activity_maps">lugar que hay que visitar</string>
+    <string name="opcMapa">Mapa</string>
+    <string name="opcHibrido">Hibrido</string>
+    <string name="opcTierra">Terreno</string>
+    <string name="opcCroquis">Croquis</string>
+</resources>
